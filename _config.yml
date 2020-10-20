@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+title: GtkHash
+description: Desktop utility for computing message digests or checksums
+show_downloads: true
