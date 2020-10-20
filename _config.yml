@@ -3,3 +3,4 @@ title: GtkHash
 description: A desktop utility for computing message digests or checksums
 github:
   public: true
+  owner_url: https://github.com/tristanheaven/gtkhash
