@@ -1,6 +1,9 @@
 theme: jekyll-theme-tactile
 title: GtkHash
 description: A desktop utility for computing message digests or checksums
+show_downloads: true
 github:
   public: true
   owner_url: https://github.com/tristanheaven/gtkhash
+  zip_url: https://github.com/tristanheaven/gtkhash/releases/latest
+  tar_url: https://github.com/tristanheaven/gtkhash/releases/latest
