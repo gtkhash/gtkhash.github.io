@@ -5,6 +5,6 @@ include: [".well-known"]
 show_downloads: true
 github:
   public: true
-  owner_url: https://github.com/tristanheaven/gtkhash
-  zip_url: https://github.com/tristanheaven/gtkhash/releases/latest
-  tar_url: https://github.com/tristanheaven/gtkhash/releases/latest
+  owner_url: https://github.com/gtkhash/gtkhash
+  zip_url: https://github.com/gtkhash/gtkhash/releases/latest
+  tar_url: https://github.com/gtkhash/gtkhash/releases/latest

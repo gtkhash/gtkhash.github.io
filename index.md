@@ -1,4 +1,4 @@
-![GtkHash Screenshot](https://raw.githubusercontent.com/tristanheaven/gtkhash/master/screenshots/readme.png)
+![GtkHash Screenshot](https://raw.githubusercontent.com/gtkhash/gtkhash/master/screenshots/readme.png)
 
 GtkHash reads the selected file and displays the calculated result from many cryptographic hash functions, including:
 * MD5
